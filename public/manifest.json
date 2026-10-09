@@ -1,0 +1,31 @@
+{
+  "name": "NovelistAI - Trợ Lý Khởi Tạo Tiểu Thuyết Tự Động",
+  "short_name": "NovelistAI",
+  "description": "Nền tảng cố vấn văn học thông minh dành cho người chưa từng viết văn, tự động chuyển hóa hạt mầm ý tưởng sơ khai thành cấu trúc cốt truyện ba hồi, thiết lập hồ sơ nhân vật đa chiều, mở rộng thế giới quan và đồng sáng tác từng phân cảnh hoàn chỉnh chuẩn phong cách tiểu thuyết xuất bản.",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "lang": "vi"
+}
